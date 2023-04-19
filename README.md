@@ -5,6 +5,8 @@ In this project I built the back end for a sample e-commerce site. It uses a wor
 
 [Link to walkthrough video](https://drive.google.com/file/d/1896bWtghjvF4a3UbCLOKKME9b8Dlu-Xt/view)
 
+With e-commerce being a large part of the economy and an important skill to learn as a web developer, this project helped me learn understand the fundamental architecture of these platforms.
+
 ## Table of Contents
 - [Installation](#installation)
 - [Credits](#credits)
